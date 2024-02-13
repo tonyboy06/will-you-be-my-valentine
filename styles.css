@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eef0f4;
 }
 
 .container {
@@ -16,6 +17,7 @@ body {
 img {
     width: 400px;
     height: 300px;
+    background-color: transparent;
 }
 
 .btnBlock {
@@ -36,11 +38,13 @@ button {
 }
 
 #yes {
-    background-color: green;
+    background-color: #ac485a;
 }
 
 #no {
-    background-color: red;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #00000a;
 }
 
 #text {
