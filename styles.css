@@ -9,6 +9,10 @@ body {
     background-color: #eef0f4;
 }
 
+.container {
+    text-align: center;
+}
+
 .imgBlock {
     max-width: 400px;
     margin: 0 auto;
@@ -53,4 +57,13 @@ button {
     font-weight: bold;
     margin-top: 30px;
     text-align: center;
+}
+
+.credit {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 15px;
+    left: 0;
+    right: 0;
+    font-size: 18px;
 }
